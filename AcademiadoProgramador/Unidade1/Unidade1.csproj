@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExerciciosComplementares\Fibonacci.cs" />
-    <Compile Include="ExerciciosComplementares\MaisTriangulo.cs" />
+    <Compile Include="ExerciciosComplementares\MaisTriangulos.cs" />
     <Compile Include="ExerciciosComplementares\MenuAtalho.cs" />
     <Compile Include="ExerciciosComplementares\Triangulo.cs" />
     <Compile Include="Logica\ImprimeNome.cs" />
