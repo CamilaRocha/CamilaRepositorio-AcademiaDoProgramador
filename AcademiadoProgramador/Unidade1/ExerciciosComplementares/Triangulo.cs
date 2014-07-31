@@ -18,6 +18,20 @@ namespace Unidade1.ExerciciosComplementares
             Console.WriteLine(" *********    ");
             Console.WriteLine("***********   ");
             Console.ReadLine();
+
+
+            // outra forma
+
+
+            for (int i = 1; i < 5; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+            Console.ReadLine();
         }
     }
 }
