@@ -13,21 +13,20 @@ namespace Unidade1.ExerciciosComplementares
          0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233...  
          Crie um programa para imprimir os 30 primeiros números da sequência de Fibonacci.  */
 
-        public static void Main3(string[] args)
+        public static void Main2(string[] args)
         {
          
-            int soma, valor1 = 0, valor2 = 1;
-            Console.WriteLine("0");
+            int soma = 0;
+            int valor1 = 0, valor2 = 1;
+            
 
             for (int i = 0; i < 30; i++)
             {
+                Console.WriteLine(soma);
                 soma = valor1 + valor2;
                 valor1 = valor2;
                 valor2 = soma;
-
-                Console.WriteLine(soma);
-                
-               
+              
             }
            
             Console.ReadLine();
