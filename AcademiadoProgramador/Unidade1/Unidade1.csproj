@@ -41,9 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExerciciosComplementares\04_Estoque.cs" />
     <Compile Include="ExerciciosComplementares\Fibonacci.cs" />
+    <Compile Include="ExerciciosComplementares\01_JogoDeXadrez.cs" />
+    <Compile Include="ExerciciosComplementares\02_JornadaDeTrabalho.cs" />
     <Compile Include="ExerciciosComplementares\MaisTriangulos.cs" />
     <Compile Include="ExerciciosComplementares\MenuAtalho.cs" />
+    <Compile Include="ExerciciosComplementares\05_PostoCombustivel.cs" />
+    <Compile Include="ExerciciosComplementares\03_SaldoAtual.cs" />
     <Compile Include="ExerciciosComplementares\Triangulo.cs" />
     <Compile Include="Logica\ImprimeNome.cs" />
     <Compile Include="Logica\ImprimeNumero.cs" />
