@@ -13,7 +13,7 @@ namespace Unidade1.ExerciciosComplementares
          0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233...  
          Crie um programa para imprimir os 30 primeiros números da sequência de Fibonacci.  */
 
-        public static void Main2(string[] args)
+        public static void Main20(string[] args)
         {
          
             int soma = 0;
